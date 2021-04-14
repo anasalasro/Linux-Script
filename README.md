@@ -1,4 +1,4 @@
-# Linux-Script 💻
+# Linux-Script :computer: 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
 ## 1.- Descripción
 
