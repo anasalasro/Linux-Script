@@ -4,7 +4,7 @@
 
 En este repositorio encontrareis diferentes scripts
 
-## 2.-  [ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)
+## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
 ## Referencias
 
