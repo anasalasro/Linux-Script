@@ -12,4 +12,4 @@ En este repositorio encontrareis diferentes scripts
 
 ## Licencia
 
-![Licencia](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/licencia.png)  
+- [Licencia](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/licencia.png)  
