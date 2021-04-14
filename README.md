@@ -8,7 +8,7 @@ En este repositorio encontrareis diferentes scripts
 
 ## Referencias
 
-- [ jesusfernandeztoledo.com ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
+- [ :globe_with_meridians: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
 
 ## Licencia
 
