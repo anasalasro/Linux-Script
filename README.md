@@ -4,7 +4,7 @@
 
 En este repositorio encontrareis diferentes scripts
 
-## 2.-  [ Script ](https://github.com/anasalasro/Nginx/blob/main/Introduccion.md)
+## 2.-  [ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)
 
 ## Referencias
 
