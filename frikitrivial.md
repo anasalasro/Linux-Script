@@ -9,8 +9,7 @@
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=-zwc-SNBFLQ&ab_channel=anasugus)
 
 
-
-
+## Código del script
 ```` 
 #!/bin/bash
 # Author: Ana Salas
