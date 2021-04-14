@@ -1,4 +1,8 @@
-```` #!/bin/bash 
+```` 
+#!/bin/bash
+# Author: Ana Salas
+# Version: 1.0
+# Descripción: Frikitrivial
 
 clear 
 echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★" 
