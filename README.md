@@ -1,4 +1,4 @@
-# Linux-Script :computer: 💻
+# Linux-Script 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
 ## 1.- Descripción
 
@@ -8,7 +8,7 @@ En este repositorio encontrareis diferentes scripts
 
 ## Referencias
 
-- [ :globe_with_meridians: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
+- [ :computer: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
 
 ## Licencia
 
