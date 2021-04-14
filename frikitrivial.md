@@ -6,13 +6,13 @@
 
 🎬 Video en el que respondemos a nuestro trivial con las respuestas correctas. ✔️
 
-[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=Ig7RgD0MbNw&ab_channel=anasugus)
+[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=x2lSfuU6Z44&ab_channel=anasugus)
 
 ## Respuestas erroneas ❌
 
 🎬 Video en el que respondemos a nuestro trivial con las respuestas incorrectas. ❌
 
-[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=-zwc-SNBFLQ&ab_channel=anasugus)
+[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=biE2PPjJNWA&ab_channel=anasugus)
 
 
 ## Código del script 📝
