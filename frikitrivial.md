@@ -1,4 +1,11 @@
+# FRIKITRIVIAL
+
+## Descripción
+
+## Respuestas correctas
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=Ig7RgD0MbNw&ab_channel=anasugus)
+
+## Respuestas erroneas
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=-zwc-SNBFLQ&ab_channel=anasugus)
 
 
