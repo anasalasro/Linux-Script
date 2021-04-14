@@ -1,3 +1,9 @@
+[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=Ig7RgD0MbNw&ab_channel=anasugus)
+[![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=-zwc-SNBFLQ&ab_channel=anasugus)
+
+
+
+
 ```` 
 #!/bin/bash
 # Author: Ana Salas
