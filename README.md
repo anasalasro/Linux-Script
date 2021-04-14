@@ -8,7 +8,7 @@ En este repositorio encontrareis diferentes scripts
 
 ## Referencias
 
-- [ :trollface: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
+- [ :link: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
 
 ## Licencia
 
