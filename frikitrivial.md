@@ -2,20 +2,20 @@
 
 ## Descripción
 
-## Respuestas correctas
+## Respuestas correctas ✔️
 
-Video en el que respondemos al trivial con las preguntas correctas
+🎬 Video en el que respondemos a nuestro trivial con las respuestas correctas. ✔️
 
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=Ig7RgD0MbNw&ab_channel=anasugus)
 
-## Respuestas erroneas
+## Respuestas erroneas ❌
 
-Video en el que respondemos al trivial con las preguntas correctas
+🎬 Video en el que respondemos a nuestro trivial con las respuestas incorrectas. ❌
 
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura2.png)](https://www.youtube.com/watch?v=-zwc-SNBFLQ&ab_channel=anasugus)
 
 
-## Código del script
+## Código del script 📝
 ```` 
 #!/bin/bash
 # Author: Ana Salas
