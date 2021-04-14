@@ -1,33 +1,33 @@
-` #!/bin/bash
-clear
-echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★"
-echo
-echo "                                   BIENVENIDOS AL FRIKITRIVIAL"
-echo
-echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★"
-echo
-sleep 1
-echo "Soy el típico juego de preguntas y respuestas 😉"
-echo
-sleep 1
-echo "Si aciertas todas las preguntas, te concederé el título de Friki del universo."
-echo
-sleep 2
-read -p "Pulse INTRO para comenzar 👇" intro
-echo
-read -p "¿Cómo se llama la casa donde viven los Weasley? MansiónWeasley, LaMadriguera, CasadeLosWeasley, Hogsmeade ➺  " respuesta1
-echo
-if [ $respuesta1 = "LaMadriguera" ]
-then
-    echo "Respuesta correcta 🥳"
-    echo
-else
-    echo "Lo siento 😭, la respuesta correcta es: LaMadriguera."
-    echo
-fi
-    sleep 2
-    echo "Pasemos a la siguiente pregunta: "
-    echo
+`` #!/bin/bash
+``clear
+``echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★"
+``echo
+``echo "                                   BIENVENIDOS AL FRIKITRIVIAL"
+``echo
+``echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★"
+``echo
+``sleep 1
+``echo "Soy el típico juego de preguntas y respuestas 😉"
+``echo
+``sleep 1
+``echo "Si aciertas todas las preguntas, te concederé el título de Friki del universo."
+``echo
+``sleep 2
+``read -p "Pulse INTRO para comenzar 👇" intro
+``echo
+``read -p "¿Cómo se llama la casa donde viven los Weasley? MansiónWeasley, LaMadriguera, CasadeLosWeasley, Hogsmeade ➺  " respuesta1
+``echo
+``if [ $respuesta1 = "LaMadriguera" ]
+``then
+``    echo "Respuesta correcta 🥳"
+``    echo
+``else
+``    echo "Lo siento 😭, la respuesta correcta es: LaMadriguera."
+``    echo
+``fi
+``    sleep 2
+ ``   echo "Pasemos a la siguiente pregunta: "
+ ``   echo
     sleep 2
     read -p "¿Quién dirigió Pesadilla antes de Navidad? HenrySelick, JhonnyDeep, TimBurton, JimHenson ➺  " respuesta2
     echo
