@@ -3,7 +3,7 @@
 
 ## 1.- Descripción
 
-``` html
+``` ruby
 En este repositorio encontrareis diferentes scripts interesantes
 ```
 
