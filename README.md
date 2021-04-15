@@ -2,6 +2,7 @@
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
 <font color='red'>test blue color font</font>
 $\color{color-code}{your-text-here}$
+This is <span style="color: red">written in red</span>
 ## 1.- Descripción
 
 En este repositorio encontrareis diferentes scripts interesantes
