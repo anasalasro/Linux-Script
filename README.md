@@ -1,8 +1,8 @@
 # <span style="color:red"> Linux-Script</span> 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
-## <span style="color:red"> 1.- Descripción </span>1.- Descripción
+## 1.- Descripción
 
-En este repositorio encontrareis diferentes scripts
+<span style="color:purple"> En este repositorio encontrareis diferentes scripts </span>
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
