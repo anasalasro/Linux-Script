@@ -21,7 +21,7 @@ Espero que os guste :yum: :yum:
 
 ## Código del script 📝
 
-``` bash
+``` sh
 #!/bin/bash
 # Author: Ana Salas
 # Version: 1.0
