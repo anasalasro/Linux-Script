@@ -14,7 +14,7 @@ Espero que os guste 😜
 
 ## Respuestas correctas ✔️
 
-#### 🎬 Video en el que respondemos a nuestro trivial con las respuestas correctas. ✔️
+####### 🎬 Video en el que respondemos a nuestro trivial con las respuestas correctas. ✔️
 
 [![ScreenShot](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/captura1.png)](https://www.youtube.com/watch?v=x2lSfuU6Z44&ab_channel=anasugus)
 
