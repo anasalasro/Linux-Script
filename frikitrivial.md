@@ -1,4 +1,3 @@
-[Python-Markdown][]
 # 🎮FRIKITRIVIAL🎮
 
 ## Descripción
@@ -22,7 +21,7 @@ Espero que os guste :yum: :yum:
 
 ## Código del script 📝
 
-> ```bash
+ ```bash
 pip install markdown
 ```
 ```python
