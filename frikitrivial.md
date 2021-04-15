@@ -39,6 +39,7 @@ Espero que os guste 😜
 #Variables
 #Funciones
 Encabezado()
+#Creamos la funcion encabezado que estará compuesta por la decoración principal del juego 
 {    
     echo "★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★"
     echo
@@ -58,6 +59,8 @@ Encabezado()
 }
 
 Preguntas()
+# En la funcion de preguntas hacemos las preguntas y guardamos las respuestas introducidas, si las respuestas introducidas son las corectas nos devolverá: Respuesta correcta 🥳 y en el caso contrario nos devolverá: Lo siento 😭, la respuesta correcta es: LaMadriguera.
+# Agregamos algunos sleep para que haya una pausa para que de tiempo a leer las instrucciones y las preguntas.
 {
     read -p "¿Cómo se llama la casa donde viven los Weasley? MansiónWeasley, LaMadriguera, CasadeLosWeasley, Hogsmeade ➺  " respuesta1
     echo
@@ -106,6 +109,7 @@ Preguntas()
 }
 
 Premio()
+#En la funcion premio si se cumple la condicion de que todas las preguntas son correctas nos aparecerá la enhorabuena con su decoración correspondiente y en el caso de que alguna de las respuestas sea erronea nos mostrará:  Lo siento 😭....
 {
     if [ "$respuesta1" = "LaMadriguera" ] && [ "$respuesta2" = "TimBurton" ]  && [ "$respuesta3" = "Gohan" ]
     
@@ -127,7 +131,7 @@ Premio()
         echo
     fi
 }
-#Bloque principal
+#Bloque principal en el que llamanos a todas las funciones que hemos creado
 clear
 Encabezado
 Preguntas
