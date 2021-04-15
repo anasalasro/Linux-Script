@@ -1,11 +1,11 @@
 # Linux-Script 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
-``` html
-En su barba vivían tres <span style="color:red;">cardenales </span>.
-```
+
 ## 1.- Descripción
 
+``` bash
 En este repositorio encontrareis diferentes scripts interesantes
+```
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
