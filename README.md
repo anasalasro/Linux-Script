@@ -3,7 +3,7 @@
 ## 1.- Descripción
 
 En este repositorio encontrareis diferentes <span style="color: purple"> scripts interesantes </span>
-<span style="color:blue">some *blue* text</span>
+<span style="color:blue;">some *blue* text</span>
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
