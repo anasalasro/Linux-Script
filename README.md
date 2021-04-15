@@ -2,7 +2,8 @@
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
 ## 1.- Descripción
 
-<span style="color: purple"> En este repositorio encontrareis diferentes scripts </span>
+En este repositorio encontrareis diferentes <span style="color: purple"> scripts interesantes </span>
+<span style="color:blue">some *blue* text</span>
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
