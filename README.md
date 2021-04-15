@@ -1,6 +1,6 @@
-# \<span style="color: purple"> Linux-Script \</span> 💻
+# Linux-Script 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
-En su barba vivían tres \<span style='color:red;'>cardenales</span>.
+En su barba vivían tres \<span style="color:red;">cardenales \</span>.
 ## 1.- Descripción
 
 En este repositorio encontrareis diferentes scripts interesantes
