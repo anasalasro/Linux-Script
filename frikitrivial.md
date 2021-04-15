@@ -2,7 +2,8 @@
 
 ## Descripción
 
-Hemos creado este pequeño script simulando un trivial en el que haremos una serie de preguntas, si todas las respuestas son correctas nos saldrá un mensaje con la enhorabuena en cambio si alguna respuesta es erronea nos dirá la respuesta correcta a esa pregunta y al terminar nos hará un breve resumem con las que serían las respuestas correctas, os dejo dos pequeños videos en el que os muestro el funcionamiento de este script.
+Hemos creado este pequeño script simulando un trivial en el que haremos una serie de preguntas, si todas las respuestas son correctas nos mostrará un mensaje con la enhorabuena, en cambio si alguna respuesta es erronea nos mostrará la respuesta correcta a esa pregunta y al terminar nos hará un breve resumem con las que serían las respuestas correctas.
+Os dejo dos pequeños videos en el que os muestro el funcionamiento de este script, tanto en los aciertos como en los errores.
 Espero que os guste :yum: :yum:
 
 ## Respuestas correctas ✔️
