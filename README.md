@@ -3,7 +3,7 @@
 
 ## 1.- Descripción
 
-``` bash
+``` phyton
 En este repositorio encontrareis diferentes scripts interesantes
 ```
 
