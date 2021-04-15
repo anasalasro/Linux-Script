@@ -1,4 +1,4 @@
-# <span style="color:purple">Linux-Script</span> 💻
+ <span style="color:purple"> # Linux-Script</span> 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
 ## 1.- Descripción
 
