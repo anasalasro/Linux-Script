@@ -20,7 +20,7 @@ Espero que os guste :yum: :yum:
 
 
 ## Código del script 📝
-```` 
+```` ruby
 #!/bin/bash
 # Author: Ana Salas
 # Version: 1.0
