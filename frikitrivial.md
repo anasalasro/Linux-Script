@@ -20,6 +20,8 @@ Espero que os guste :yum: :yum:
 
 
 ## Código del script 📝
+Be sure to swap out `${package.json.version}` with the actual
+
 ```` ruby
 #!/bin/bash
 # Author: Ana Salas
