@@ -21,7 +21,7 @@ Espero que os guste :yum: :yum:
 
 ## Código del script 📝
 
-``` ruby
+``` phyton
 #!/bin/bash
 # Author: Ana Salas
 # Version: 1.0
