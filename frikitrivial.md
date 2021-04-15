@@ -21,15 +21,7 @@ Espero que os guste :yum: :yum:
 
 ## Código del script 📝
 
- ```bash
-pip install markdown
-```
-```python
-import markdown
-html = markdown.markdown(your_text_string)
-```
-
-```` ruby
+``` ruby
 #!/bin/bash
 # Author: Ana Salas
 # Version: 1.0
