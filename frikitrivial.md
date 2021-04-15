@@ -20,8 +20,14 @@ Espero que os guste :yum: :yum:
 
 
 ## Código del script 📝
-Be sure to swap out `${package.json.version}` with the actual
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+
+> ```bash
+pip install markdown
+```
+```python
+import markdown
+html = markdown.markdown(your_text_string)
+```
 
 ```` ruby
 #!/bin/bash
