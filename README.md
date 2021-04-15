@@ -3,7 +3,7 @@
 
 ## 1.- Descripción
 
-``` phyton
+``` html
 En este repositorio encontrareis diferentes scripts interesantes
 ```
 
