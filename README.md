@@ -1,9 +1,10 @@
 # <span style="color: purple"> Linux-Script</span> 💻
 ![logoLinux](https://github.com/anasalasro/Linux-Script/blob/main/ImagenesLinux/logoLinux4.png)
+<font color='red'>test blue color font</font>
+$\color{color-code}{your-text-here}$
 ## 1.- Descripción
 
-En este repositorio encontrareis diferentes <span style="color: purple"> scripts interesantes </span>
-<span style="color:blue;">some *blue* text</span>
+En este repositorio encontrareis diferentes scripts interesantes
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
 
