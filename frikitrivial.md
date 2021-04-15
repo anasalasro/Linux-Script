@@ -8,9 +8,9 @@ en cambio si alguna respuesta es erronea nos mostrará la respuesta correcta a e
 y al terminar nos hará un breve resumem con las que serían las respuestas correctas. 
 Os dejo dos pequeños videos en el que os muestro el funcionamiento de este script,
 tanto en los aciertos como en los errores.
-Espero que os guste
+Espero que os guste :yum: :yum:
 ```
-:yum: :yum:
+
 
 ## Respuestas correctas ✔️
 
