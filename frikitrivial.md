@@ -21,6 +21,7 @@ Espero que os guste :yum: :yum:
 
 ## Código del script 📝
 Be sure to swap out `${package.json.version}` with the actual
+> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
 
 ```` ruby
 #!/bin/bash
