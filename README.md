@@ -4,7 +4,7 @@
 ## 1.- Descripción
 
 ``` ruby
-En este repositorio encontrareis diferentes scripts interesantes
+En este repositorio encontraréis diferentes scripts interesantes
 ```
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
