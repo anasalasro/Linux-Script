@@ -8,7 +8,7 @@ En este repositorio encontrareis diferentes scripts interesantes
 ```
 
 ## 2.- 🎮[ FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/frikitrivial.md)🎮
-
+[DESCARGAR FRIKITRIVIAL ](https://github.com/anasalasro/Linux-Script/blob/main/FRIKITRIVIAL.sh)
 ## Referencias
 
 - [ :open_file_folder: ](https://jesusfernandeztoledo.com/introduccion-a-shell-script-relacion-1-ejercicios-resueltos/)  
